@@ -32,3 +32,11 @@ def is_good_password(password):
 password = input("Enter your password: ")
 result = is_good_password(password)
 print(result)
+
+
+
+
+#OUTPUT 
+Enter your password: Pass123!
+Password is good!
+
